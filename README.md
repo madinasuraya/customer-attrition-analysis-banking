@@ -6,7 +6,7 @@ The analysis uses a dataset containing **10,000 banking customer records**, incl
 
 ### 📂 Folder Content
 
-- 📖 [Report]()
+- 📖 [Report](Report.pdf)
 - 💻 [System Code](WQD7012_PROJECT.ipynb)
-- 📎 [Dataset](PASTE_DATASET_LINK_HERE)
+- 📎 [Dataset](Dataset)
 
